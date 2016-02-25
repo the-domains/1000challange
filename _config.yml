@@ -1,0 +1,14 @@
+layout_spectrum: 0.6878798
+typography_spectrum: 0.3004901
+color:
+  saturation: 0.5405644
+  lightness: 0.3740602
+  brandStrength: 0.8226817
+  rhythmicContrast: 0.6485262
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 1000challange
