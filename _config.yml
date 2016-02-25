@@ -1,14 +1,26 @@
-layout_spectrum: 0.6878798
-typography_spectrum: 0.3004901
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.5405644
-  lightness: 0.3740602
+  saturation: 0.7293233
   brandStrength: 0.8226817
-  rhythmicContrast: 0.6485262
+  lightness: 0.7568922
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  rhythmicContrast: 0.9718045
+typography_spectrum: 0.3004901
+layout_spectrum: 0.3433584
 name: 1000challange
