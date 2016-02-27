@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.3004901
 color:
-  saturation: 0.7293233
+  saturation: 0.537594
   brandStrength: 0.8226817
-  lightness: 0.7568922
+  lightness: 0.2314715
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 0.9718045
-typography_spectrum: 0.3004901
+  rhythmicContrast: 0.4065521
 layout_spectrum: 0.3433584
 name: 1000challange
